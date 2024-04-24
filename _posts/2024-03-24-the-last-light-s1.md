@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "The Last Light"
 date: 2024-03-24
 category: [Warhammer Fantasy]
 tags: [the last light]
 ---
 
-# Welcome
+# Session Zero
 
 ![Session 0](/images/session0.png)
 
