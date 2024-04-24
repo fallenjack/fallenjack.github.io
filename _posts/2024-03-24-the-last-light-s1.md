@@ -2,8 +2,8 @@
 layout: post
 title:  "Welcome to Jekyll!"
 date: 2024-03-24
-catageries: [Warhammer Fantasy]
-tags: [The Last Light]
+category: [Warhammer Fantasy]
+tags: [the last light]
 ---
 
 # Welcome
